@@ -151,4 +151,16 @@
         </snapshotRepository>
     </distributionManagement>
 
+    <scm>
+        <connection>scm:git:git@github.com:dbs-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:dbs-bom.git</developerConnection>
+        <url>https://github.com/pulawskk/dbs-bom</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <issueManagement>
+        <url>https://github.com/pulawskk/dbs-bom/issues</url>
+        <system>GitHub</system>
+    </issueManagement>
+
 </project>
